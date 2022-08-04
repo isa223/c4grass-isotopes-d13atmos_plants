@@ -1,0 +1,125 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(lme4)
+library(AICcmodavg)
+setwd(dir = "/Users/IsadT/Desktop")
+```
+
+Bringing in the CSIRO data, getting rid of the nonvalues and averaging on an annual basis. 
+```{r}
+setwd(dir = "/Users/IsadT/Desktop")
+atmos_post_plot <- read.table('expanded.txt')
+colnames(atmos_post_plot)[colnames(atmos_post_plot)=="V2"] <- "year"
+colnames(atmos_post_plot)[colnames(atmos_post_plot)=="V14"] <- "delta.disc"
+
+atmos_post_plot <- atmos_post_plot %>% filter(delta.disc != -999.999)
+
+atmos_post_plot
+
+annual_average <- atmos_post_plot %>%
+  group_by(year) %>%
+  summarise_at(vars(delta.disc), funs(mean(., na.rm=TRUE)))
+```
+
+Looking at the difference between the CSIRO and Rubino records.
+```{r}
+setwd(dir = "/Users/IsadT/Desktop")
+csiro_years <- annual_average$year
+
+rubino <- read.csv('spline.csv')
+colnames(rubino)[colnames(rubino)=="age"] <- "year"
+
+overlap <- filter(rubino, year %in% csiro_years)
+
+merged <- merge(overlap, annual_average, by='year')
+
+colnames(merged)[colnames(merged)=="d13"] <- "d13.rubino"
+colnames(merged)[colnames(merged)=="delta.disc"] <- "d13.csiro"
+
+#merged
+
+plot(d13.csiro ~ year, data = merged, col='red')
+points(d13.rubino ~ year, data = merged, col='blue')
+abline(lm(d13.csiro ~ year, data = merged, col='red'))
+abline(lm(d13.rubino ~ year, data = merged, col='blue'))
+
+csiro <- (lm(d13.csiro ~ year, data = merged))
+rubino <- (lm(d13.rubino ~ year, data = merged))
+
+summary(csiro)
+summary(rubino)
+
+csiro.y <- coef(csiro)["(Intercept)"]
+rubino.y <- coef(rubino)["(Intercept)"]
+
+csiro.y
+rubino.y
+
+diff <- csiro.y-rubino.y
+diff
+```
+
+
+Correcting the CSIRO values according to the overlap with the Rubino record:
+```{r}
+rows_csiro <- nrow(annual_average)
+annual_avg_corr <- rep(0,rows_csiro)
+
+for (i in 1:rows_csiro){
+  x<-annual_average$delta.disc[i]
+  annual_avg_corr[i] <- x - 0.04851815 
+}
+
+annual_average$corrected <- annual_avg_corr
+annual_average
+```
+
+
+Creating data set of rubino and csiro values
+```{r}
+csiro_years <- annual_average$year
+
+rubino <- read.csv('spline.csv')
+colnames(rubino)[colnames(rubino)=="age"] <- "year"
+
+overlap <- filter(rubino, year %in% csiro_years)
+
+merged <- merge(overlap, annual_average, by='year')
+
+
+colnames(merged)[colnames(merged)=="d13"] <- "d13.rubino"
+colnames(merged)[colnames(merged)=="corrected"] <- "d13.csiro"
+merged
+
+plot(d13.csiro ~ year, data = merged, col='red')
+points(d13.rubino ~ year, data = merged, col='blue')
+abline(lm(d13.csiro ~ year, data = merged, col='red'))
+abline(lm(d13.rubino ~ year, data = merged, col='blue'))
+```
+
+```{r}
+rubino_data <- read.csv('spline.csv')
+rubino_data$site <- NULL
+rubino_data$type <- NULL
+rubino_data$depth <- NULL
+rubino_data$unc <- NULL
+colnames(rubino_data)[colnames(rubino_data)=="age"] <- "year"
+colnames(rubino_data)[colnames(rubino_data)=="d13"] <- "d13_atmos"
+rubino_data
+```
+
+```{r}
+annual_average$delta.disc<-NULL
+colnames(annual_average)[colnames(annual_average)=="corrected"] <- "d13_atmos"
+atmos_compiled <- rbind(rubino_data, annual_average)
+#write.csv(atmos_compiled, "spline_comp.csv")
+atmos_compiled
+```

@@ -1,0 +1,345 @@
+year,iso_code,collector,number,family,species,sp_code,qds,lat,long,pathway,weight,n_qual,d.15NAIR,d.13CVPDB,X.N,X.C,C.N,d13_atmos
+1931,1,"Mogg, A.O.D.",16454,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.802,2,5.2,-11.4,2.7,54.1,20.3,-6.9815
+1929,2,"Skea, D.",21,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.973,2,4.1,-10.9,2.5,44.4,17.6,-6.841285714
+1931,3,"Mogg, A.O.D.",16471,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.841,2,2.5,-10.8,1.2,42.1,36.6,-6.9815
+1931,4,"Mogg, A.O.D.",16453,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.82,2,8.8,-10.1,2,50.9,24.8,-6.9815
+1932,5,"Cronje, T.",12,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.675,2,3.8,-10.8,1.3,40.6,31.4,-6.906
+1936,6,"Mogg, A.O.D.",13715,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.703,2,3.4,-10.4,1.2,41.2,33.1,-6.939
+1944,7,"Wasserfall, E.",PRE 33399,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.688,0,6,-10.9,2.1,42.2,20.4,-7.079100425
+1964,8,"Oakes, A.C.J.",245,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.704,2,2.6,-11.7,0.4,42,103.8,-7.066939165
+1983,9,"Smook, L.",4761,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.837,2,3.2,-11.8,2,43.5,22,-7.65725
+1956,10,de Wet,1469,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.762,2,2.3,-10.1,1.8,42.6,23.4,-7.064993826
+1932,11,"Smith, C.A.",6079,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.847,2,5.6,-11.1,1.8,41.8,23.1,-6.906
+1932,12,"Mogg, A.O.D.",12348,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.718,1,2.3,-11.7,0.9,40.5,43.7,-6.906
+1925,13,"Pole-Evans, I.B.",1528,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.651,0,1,-10.3,0.5,40.8,81.6,-6.968
+1932,14,"Smith, C.A.",6059,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.673,2,1.3,-9.6,1.6,42.5,26.9,-6.906
+1925,16,"Robinson, M.",15,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.787,2,5.5,-11.3,2.2,40,17.9,-6.968
+1932,17,"Mogg, A.O.D.",12331,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.632,2,3.7,-11.6,1.5,42.9,29.2,-6.906
+1932,18,"Smith, C.A.",6122,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.857,2,4.4,-10.5,1.8,42.9,23.3,-6.906
+1971,19,"Hanekom, W.J.",1706,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.87,2,8.7,-10.5,1.3,43.2,32.4,-7.3475
+1919,20,"Stent, S.M.",PRE19940,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.92,2,4.5,-10.5,0.9,40.9,44.4,-6.94453502
+1912,21,"Theiler, A.C.",TRV 12018,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.684,2,1.9,-11.3,1.2,41.5,34.9,-6.877314958
+1932,22,"Smith, C.A.",6249,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.901,2,4.7,-10.7,1.6,40.8,25.1,-6.906
+1951,23,"Liebenberg, L.C.C.",348A,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.683,2,5.2,-10.3,1.4,43.3,29.9,-6.993443595
+1912,24,"Theiler, A.C.",TRV 12020,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.857,2,5.5,-10.3,2.2,41.5,19.2,-6.877314958
+1936,25,"Chippindall, L.K.A.",240,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.795,2,3.8,-11,1.9,39.8,20.6,-6.939
+1924,26,"Dickson, J.",56,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.584,1,2.3,-10.8,1.1,42.5,40.4,-6.887
+1970,27,"Ellis, R.P.",134,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.955,2,2.6,-11.5,1,42.1,41.9,-7.318156423
+1953,28,"Godfrey, R.K.",SVH1801,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.718,2,6.8,-10.2,1.6,42.9,27.1,-7.010270232
+1932,29,"Smith, C.A.",6133,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.874,2,5.5,-10.8,1.2,42.7,35.6,-6.906
+1932,30,"Smith, C.A.",6137,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.945,2,4,-10.9,1.5,40,27.3,-6.906
+1932,31,"Smith, C.A.",6074,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.807,2,4.5,-10.3,1.8,40.7,22.3,-6.906
+1952,32,de Wet,20,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.857,2,5.4,-10.8,2,39.9,20.1,-6.996541783
+1932,33,"Smith, C.A.",6248,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.717,2,6.3,-10.9,2.4,41.8,17.5,-6.906
+1932,34,"Smith, C.A.",6078B,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.653,2,3.9,-10.3,1.3,42.2,33.4,-6.906
+1929,35,"Skea, D.",65,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.764,2,2.7,-10.6,1.2,41.1,35,-6.841285714
+1932,36,"Mogg, A.O.D.",12329,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.701,2,7.3,-11.1,1.6,43.6,27.9,-6.906
+1932,37,"Smith, C.A.",6070,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.676,2,3.4,-10.7,2,42.7,21,-6.906
+1932,38,"Mogg, A.O.D.",12330,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.651,2,6.8,-9.5,2.5,43.5,17.3,-6.906
+1953,39,de Wet,23A,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.847,2,3.2,-10.1,1.3,41.7,33,-7.010270232
+1932,40,"Smith, C.A.",6238,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.531,2,3,-10.3,1.3,42,32.7,-6.906
+1972,41,"Ellis, R.P.",1327,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.898,2,6.7,-11.7,1.7,42.9,25.5,-7.356
+1932,42,"Smith, C.A.",6072,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.856,2,5.2,-10.7,1.4,41.1,28.6,-6.906
+1972,43,"Ellis, R.P.",1028,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.784,2,1.8,-10.9,2.6,44.5,17.3,-7.356
+1932,44,"Smith, C.A.",6078,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.983,2,4.4,-10.4,1.7,42.8,25.6,-6.906
+1924,45,"Dickson, J.",PRE 54,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.907,2,1.7,-9.5,1.2,42.4,35.9,-6.887
+1978,46,"Manders, R.",1,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.945,2,1.5,-12.1,1,42.6,41.3,-7.502
+1913,47,Theiler,TRV 26678,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.845,2,7.2,-10.3,1.9,40.5,21.7,-6.867
+1905,48,"Burtt Davy, J.",3802,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.546,2,5.7,-11.1,1.7,39.5,23,-6.829
+1970,49,"Ellis, R.P.",126,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.621,2,5.3,-11.5,2,42.4,21.6,-7.318156423
+1926,50,"Smith, C.A.",2296,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.823,2,12.2,-10.5,3.3,44.1,13.5,-6.966800343
+1908,51,"Leendertz, R.",TRV 3886,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.642,0,0.4,-10.2,0.6,43.1,71.7,-6.838275076
+1931,52,"Mogg, A.O.D.",16472,Poaceae,Digitaria eriantha,DE,2528CA,-25.625,28.125,C4,1.788,2,3,-11.3,1.2,43.5,37,-6.9815
+1919,53,"Stent, S.M.",PRE 19939,Poaceae,Hyparrhenia hirta,HH,2528CA,-25.625,28.125,C4,1.738,2,5.9,-10.2,1.2,42,35.7,-6.94453502
+1976,54,"Du Toit, P.C.V.",1527,Poaceae,Hyparrhenia hirta,HH,3318CD,-33.875,18.375,C4,1.64,0,3,-11.1,0.9,43.9,47.7,-7.4425
+1935,55,"Esterhuysen, E.E.",589,Poaceae,Koeleria capensis,KC,3318CD,-33.875,18.375,C3,1.938,2,1.2,-27.4,1.3,42.2,31.9,-6.976
+1897,56,"Wolley-Dod, A.H.",3558,Poaceae,Pentameris pallida,PP,3318CD,-33.95,18.46666667,C3,1.63,2,5.6,-29,1.6,41.4,25.9,-6.796333333
+1916,57,"Bolus, F.",14960,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.873,2,3.9,-27.8,1.3,40.7,30.5,-6.8975
+1902,58,"Marloth, H.W.R.",3049,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.955,2,-0.3,-27.5,1.3,43.6,33.9,-6.769743787
+1940,59,"Esterhuysen, E.E.",11753,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.744,1,2,-28.5,1,42.7,43.7,-6.938
+1974,60,"Ellis, R.P.",2307,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.524,1,4.9,-28.9,1.1,42.6,39.2,-7.483
+1919,61,"Andreae, H.",85,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.617,0,-1.5,-28.4,0.9,43.7,46.6,-6.94453502
+1976,63,"Du Toit, PCV",1522,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.953,2,4.4,-29.2,1.8,41.6,23.3,-7.4425
+1915,64,"Bolus, H.M.L.",14741,Poaceae,Pentameris pallida,PP,3318CD,-33.98333333,18.41666667,C3,1.794,2,0.5,-28.2,1.4,44.2,32.7,-6.878861797
+1936,65,"Adamson, R.S.",811,Poaceae,Koeleria capensis,KC,3318CD,-33.875,18.375,C3,1.714,2,2.7,-26.1,1.9,45.7,24.2,-6.939
+1953,66,"Esterhuysen, E.E.",22181,Poaceae,Pentameris pallida,PP,3318CD,-33.95,18.41666667,C3,1.872,1,3.8,-27.4,0.9,44.2,48.8,-7.010270232
+1929,67,"Sandwith, C.",10,Poaceae,Hyparrhenia hirta,HH,3318CD,-33.875,18.375,C4,1.968,2,1.9,-11.1,1.2,43.5,34.8,-6.841285714
+1973,68,"Esterhuysen, E.E.",33325,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.95,2,2,-28.6,1,41.8,43.1,-7.39275
+1986,69,"Spies, J.J.",3239,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.819,2,0.4,-29.3,1.1,42.3,37.5,-7.734
+1913,70,"Bolus, F.",14680,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.924,2,4.4,-27.3,2.1,43.2,20.5,-6.867
+1892,71,"Schlechter, F.R.R.",847,Poaceae,Pentameris pallida,PP,3318CD,-33.95,18.46666667,C3,1.178,0,2.8,-27.2,0.9,43.6,46.8,-6.830153626
+1978,72,"Durand, B.J.",343,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.759,2,1.4,-28.2,2.1,45.3,21.9,-7.502
+1896,73,"Wolley-Dod, A.H.",1821,Poaceae,Pentameris pallida,PP,3318CD,-33.98333333,18.45,C3,1.931,2,0.9,-29.6,2.9,44.1,15.4,-6.857648154
+1827,74,Ecklon,87,Poaceae,Hyparrhenia hirta,HH,3318CD,-33.875,18.375,C4,1.576,1,3.6,-10.6,1.1,44.3,40.1,-6.635253729
+1919,75,"Andreae, H.",86,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.58,2,0.5,-29,1.4,42.6,30.2,-6.94453502
+1936,76,"Adamson, R.S.",781,Poaceae,Hyparrhenia hirta,HH,3318CD,-33.875,18.375,C4,1.89,2,3,-10.7,1.5,45.2,29.5,-6.939
+1976,77,"Du Toit, P.C.V.",1502,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.725,0,1.9,-28.8,0.7,42.6,57,-7.4425
+1974,78,"Ellis, R.P.",2306,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.764,2,1.9,-30.7,1.5,52,33.6,-7.483
+1952,79,"Fairall, A.R.",248,Poaceae,Pentameris pallida,PP,3318CD,-33.98333333,18.41666667,C3,1.657,2,-0.2,-30,1.3,45.2,33.7,-6.996541783
+1929,80,"Sandwith, C.",88,Poaceae,Hyparrhenia hirta,HH,3318CD,-33.875,18.375,C4,1.617,0,-0.6,-11.4,0.9,43.1,49.8,-6.841285714
+1951,81,"Garside, S.",25439,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.576,0,0.9,-29.2,0.7,43.7,62.8,-6.993443595
+1963,82,"Esterhuysen, E.E.",30036,Poaceae,Pentameris pallida,PP,3318CD,-33.995,18.41666667,C3,1.532,2,2.2,-30.5,1.3,43.8,34.4,-7.055
+1987,83,"Spies, J.J.",3652,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.65,0,0.9,-29.9,1.1,43.3,38.9,-7.7495
+1976,85,"Du Toit, P.C.V.",1508,Poaceae,Pentameris pallida,PP,3318CD,-33.91944444,18.39861111,C3,1.572,2,0.8,-29.8,1.1,44.5,40.9,-7.4425
+1976,86,"Du Toit, PCV",1524,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.64,0,3,-28.4,2.1,42.1,20.1,-7.4425
+1830,87,"Ecklon, C.F.",84,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.606,2,9.1,-28.9,1.3,43,32.6,-6.64453767
+1954,88,"Esterhuysen, E.E.",22651,Poaceae,Pentameris pallida,PP,3318CD,-33.95,18.4,C3,1.802,2,-0.9,-27.4,1.3,45.3,34.6,-7.02960461
+1976,89,"Du Toit, P.C.V.",1519,Poaceae,Hyparrhenia hirta,HH,3318CD,-33.875,18.375,C4,1.814,2,1,-12.3,1.3,44.3,35.2,-7.4425
+1958,90,"Esterhuysen, E.E.",27950,Poaceae,Pentameris pallida,PP,3318CD,-33.95,18.4,C3,1.901,0,2.9,-27.4,0.7,44.1,65.4,-7.066575548
+1986,91,"Spies, J.J.",3239,Poaceae,Pentameris pallida,PP,3318CD,-33.875,18.375,C3,1.857,2,3.2,-29.7,1.2,41.2,33.8,-7.734
+1929,92,"Hitchcock, A.S.",24082,Poaceae,Hyparrhenia hirta,HH,3318CD,-33.875,18.375,C4,1.76,0,5.2,-10.9,0.9,44.8,47.2,-6.841285714
+1935,93,"Esterhuysen, E.E.",598,Poaceae,Pentameris pallida,PP,3318CD,-33.96666667,18.41666667,C3,1.871,0,2.4,-28.5,1,41.9,42.3,-6.976
+1922,94,"Pole-Evans, I.B.",489,Poaceae,Koeleria capensis,KC,3318CD,-33.875,18.375,C3,1.797,2,2.6,-28.2,1.5,43.4,29.7,-6.857960447
+1929,95,"Sandwith, C.",130,Poaceae,Hyparrhenia hirta,HH,3318CD,-33.875,18.375,C4,1.828,0,-0.4,-11.3,0.3,41.3,123,-6.841285714
+1830,96,"Ecklon, C.F.",24964,Poaceae,Koeleria capensis,KC,3318CD,-33.875,18.375,C3,1.653,0,NA,-25.3,1.7,48.7,29.3,-6.64453767
+1939,97,"Adamson, R.S.",2684,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.717,2,2.5,-26.9,1.1,42.5,37.8,-6.994
+1974,98,"Ellis, R.P.",2316,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.945,2,1.8,-30.3,2.9,44.6,15.5,-7.483
+1987,99,"Spies, J.J.",3433,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.673,2,1.9,-29.9,1.2,42.1,35.4,-7.7495
+1942,100,"Adamson, R.S.",3451,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.927,2,5.4,-30.1,1.4,41.7,28.9,-7.065637441
+1987,101,"Spies, J.J.",3439,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.754,2,1.5,-30.6,1.6,43.8,27,-7.7495
+1983,102,"O'Callaghan, M.G.",696,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.654,0,2.3,-29.6,0.6,42.3,73.8,-7.65725
+1974,103,"Goldblatt, P.",3321,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.448,2,4.7,-31.2,3.3,45.5,14,-7.483
+1988,104,"Spies, J.J.",3911,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.651,2,7,-31,1.4,43.7,30.9,-7.804333333
+1918,105,"Bolus, H.M.L.",PRE 34739,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.812,2,1.9,-28.3,1.5,44.6,29.6,-6.938044526
+1946,106,"Adamson, R.S.",3718,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.758,2,1.5,-29.6,2,43.3,21.9,-6.983
+1974,107,"Ellis, R.P.",2312,Poaceae,Pentameris pallida,PP,3418AB,-34.125,18.375,C3,1.943,0,1.1,-28.1,0.9,42.9,48.3,-7.483
+1970,108,"Ellis, R.P.",158,Poaceae,Hyparrhenia hirta,HH,2528CB,-25.625,28.375,C4,1.955,0,4.1,-10.8,0.6,42.9,77.4,-7.318156423
+1983,109,"Smook, L.",4795,Poaceae,Hyparrhenia hirta,HH,2528CB,-25.625,28.375,C4,1.876,2,4.3,-11.1,1.5,43.3,28.3,-7.65725
+1972,110,"Ellis, R.P.",1122,Poaceae,Digitaria eriantha,DE,2528CB,-25.625,28.375,C4,1.869,0,3,-10.9,0.9,42.9,45.7,-7.356
+1973,111,"Ellis, R.P.",1778,Poaceae,Digitaria eriantha,DE,2528CB,-25.625,28.375,C4,1.777,2,3.8,-11.9,1.1,41.4,36.2,-7.39275
+1979,112,"van Rooyen, N.",2529,Poaceae,Digitaria eriantha,DE,2528CB,-25.625,28.375,C4,1.762,0,3,-11.9,0.5,45.2,91.1,-7.539666667
+1980,113,"Balsinhas, A.A.",3463,Poaceae,Hyparrhenia hirta,HH,2528CB,-25.625,28.375,C4,1.838,2,7.3,-11.7,2,42.1,21.6,-7.5705
+2004,114,"Smook, L.",11433,Poaceae,Digitaria eriantha,DE,2528CB,-25.73861111,28.27944444,C4,1.732,2,1.9,-12.5,1.4,42.7,30.2,-8.176351483
+1930,116,"Goossens, A.P.G.",128,Poaceae,Hyparrhenia hirta,HH,2528CB,-25.625,28.375,C4,1.671,0,4.7,-10.7,1,42.3,43.2,-6.933243381
+1975,117,"Du Toit, P.C.V.",715,Poaceae,Hyparrhenia hirta,HH,2528CB,-25.625,28.375,C4,1.896,2,4.3,-11.4,1.2,43.5,36,-7.417666667
+1986,118,"Joffe, H.",5,Poaceae,Hyparrhenia hirta,HH,2528CB,-25.625,28.375,C4,1.694,0,-0.5,-14.1,0.8,43.9,51.7,-7.734
+1975,119,"Du Toit, P.C.V.",717,Poaceae,Hyparrhenia hirta,HH,2528CB,-25.625,28.375,C4,1.741,0,-1.5,-11.7,0.9,41.5,48.5,-7.417666667
+1997,120,"Reddy, R.A.",1011,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.611,2,1.5,-12.2,1.6,43.1,27.1,-8.00226815
+1998,121,"Reddy, R.A.",1062,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.607,0,0.2,-12.3,0.9,43.7,47.8,-8.051092408
+1998,122,"Reddy, R.A.",1085,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.834,2,-7.9,-13.2,1.1,42.6,37.3,-8.051092408
+1997,123,"Reddy, R.A.",155,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.68,0,2.7,-12.2,0.5,44.5,91.7,-8.00226815
+1998,124,"Reddy, R.A.",1475,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.656,2,1,-13.5,1.5,41.8,27,-8.051092408
+1998,125,"Reddy, R.A.",1094,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.836,2,-1.6,-12.2,1.1,45.1,39.9,-8.051092408
+1984,126,"Robinson, E.R.",10,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.625,2,4,-11.4,1.4,41.5,29.8,-7.6955
+1969,127,"Mogg, A.O.D.",34154,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.658,0,1.9,-12,0.3,45.4,129.8,-7.305
+1937,128,"Cohen, E.",671,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.125,27.875,C4,1.681,0,1.7,-10.6,1,42.2,42.6,-6.95
+2001,129,"Meyer, J.J.",BP00748,Poaceae,Hyparrhenia hirta,HH,2627BB,-26.08611111,27.84194444,C4,1.778,0,0.2,-11.9,0.6,44.1,76.5,-8.074354535
+1985,130,Ekokonsult,33-41,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.927,2,1.3,-12.1,1.8,43.4,24.6,-7.706
+1929,131,"Skea, D.",69,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.621,2,2,-10.3,2.3,44.4,19.5,-6.841285714
+1974,132,"Kok, P.D.F.",518,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.813,2,0,-10.8,1.1,44.2,40.4,-7.483
+1997,133,"Riddles, L.M.D.",34,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.691,0,1.5,-12.7,0.6,43,66.9,-8.00226815
+1931,134,"Obermeyer, A.A.",TRV 29134,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.882,2,5,-11.1,2,43,21.2,-6.9815
+1903,135,"Burtt Davy, J.",33,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.851,0,3.5,-11,1.1,45.2,41.4,-6.765
+1921,136,"Pole-Evans, I.B.",217,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.693,2,4.9,-10.7,1.6,43,27.2,-6.89513872
+1925,137,"McClean, A.P.D.",20,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.711,2,2.5,-10,2.5,45,18.3,-6.968
+1929,138,"Mogg, A.O.D.",PRE 7969,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.966,2,1.7,-10.5,1.9,43.7,22.9,-6.841285714
+1997,139,"Riddles, L.M.D.",46,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.834,2,3.4,-12.2,1.1,44.6,39.8,-8.00226815
+1974,140,"Kok, P.D.F.",517,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.74,2,2.7,-11.9,1.2,43.1,36.4,-7.483
+1978,141,"Smook, L.",1078,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.734,2,-1.6,-26.5,2.2,43.6,19.9,-7.502
+1917,142,"Pole-Evans, I.B.",130,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.761,2,6.3,-9.6,1.2,42.3,33.9,-6.919656769
+1953,143,"Godfrey, R.K.",SH 1794,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.785,2,6.1,-11.4,1.9,43.8,23,-7.010270232
+1934,144,"Pole-Evans, I.B.",3690,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.85,2,4.3,-10.3,1.4,45.7,32,-6.961154178
+1925,145,"Hector, J.",1010,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.894,2,4.4,-10.6,2.1,43.5,20.8,-6.968
+1922,146,"Pole-Evans, I.B.",342,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.835,2,4.3,-10.6,1.3,45.7,36,-6.857960447
+1925,147,"McClean, A.P.D.",31,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.854,2,4.1,-10.4,1.9,46.1,23.9,-6.968
+1925,148,"Hector, J.",1011,Poaceae,Hyparrhenia hirta,HH,2528CC,-25.875,28.125,C4,1.899,2,4,-9.7,1.2,42.1,34,-6.968
+1922,149,"Pole-Evans, I.B.",427,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.961,2,3.4,-10.2,1.2,43.3,34.7,-6.857960447
+1928,150,"Bevan, N.",PRE 7602,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.94,2,4.5,-10.8,1.6,43.4,26.4,-6.8392439
+1929,151,"Stent, S.M.",PRE 8088,Poaceae,Digitaria eriantha,DE,2528CC,-25.875,28.125,C4,1.803,2,4.2,-10.6,1.6,42.2,25.7,-6.841285714
+1929,152,"Sandwith, C.",103B,Poaceae,Koeleria capensis,KC,3418BB,-34.125,18.875,C3,1.74,0,4.2,-26.8,1.1,43.5,40.8,-6.841285714
+1981,153,"McDonald, D.J.",620,Poaceae,Koeleria capensis,KC,3418BB,-34.125,18.875,C3,1.761,0,-3.1,-24.9,1,44.9,44.7,-7.610985883
+1978,154,"Boucher, C.",3490,Poaceae,Koeleria capensis,KC,3418BB,-34.125,18.875,C3,1.822,0,-1.2,-27.5,0.8,43.8,57.8,-7.502
+1944,155,"Parker, R.N.",3954,Poaceae,Koeleria capensis,KC,3418BB,-34.125,18.875,C3,1.896,2,1.4,-28.5,1.5,42.8,29.1,-7.079100425
+1921,156,"Rogers, F.A.",26640,Poaceae,Koeleria capensis,KC,3418BB,-34.125,18.875,C3,1.863,0,3.7,-28,0.5,40.2,74.6,-6.89513872
+1976,158,"Du Toit, P.C.V.",1877,Poaceae,Koeleria capensis,KC,3419BD,-34.375,19.875,C3,1.624,2,-2.2,-27.8,1.9,42.9,22.8,-7.4425
+1978,159,"Cleghorn, W.B.",3150,Poaceae,Koeleria capensis,KC,3419BD,-34.375,19.875,C3,1.759,2,-1.8,-25.8,1.1,43.9,38.4,-7.502
+1978,159,"Cleghorn, W.B.",3150,Poaceae,Koeleria capensis,KC,3419BD,-34.375,19.875,C3,1.827,0,-3.8,-27.3,0.6,42.8,71.4,-7.502
+1978,160,"Cleghorn, W.B.",3115,Poaceae,Koeleria capensis,KC,3419BD,-34.375,19.875,C3,1.771,22,0.1,-27.6,1.5,43.9,28.8,-7.502
+1988,161,"Spies, J.J.",3859,Poaceae,Pentameris pallida,PP,3319AD,-33.375,19.375,C3,1.659,2,-3.6,-29.5,2.5,44.2,17.7,-7.804333333
+1948,162,"Liebenberg, L.C.C.",4325,Poaceae,Pentameris pallida,PP,3319AD,-33.375,19.375,C3,1.807,2,-1.6,-29.8,1.5,44.6,29.3,-7.043
+1953,163,"Esterhuysen, E.E.",22241,Poaceae,Pentameris pallida,PP,3319AD,-33.375,19.375,C3,1.721,2,1.4,-29.5,1.3,43.9,34.9,-7.010270232
+1988,164,"Spies, J.J.",3860,Poaceae,Pentameris pallida,PP,3319AD,-33.375,19.375,C3,1.912,2,8,-29.6,1.6,45.2,28.1,-7.804333333
+1973,165,"Esterhuysen, E.E.",33339,Poaceae,Pentameris pallida,PP,3319AD,-33.375,19.375,C3,1.702,0,5.4,-29.9,0.7,45.9,63.4,-7.39275
+1979,166,"Goldblatt, P.",5234,Poaceae,Pentameris pallida,PP,3319AD,-33.375,19.375,C3,1.797,2,-2.5,-29.4,1.2,43.8,35.3,-7.539666667
+1983,167,"Hilliard, O.M.",16964,Poaceae,Koeleria capensis,KC,2929BC,-29.375,29.625,C3,1.674,1,-2.1,-27,1,42.5,41.5,-7.65725
+1978,168,"Smook, L.",1061,Poaceae,Koeleria capensis,KC,2929BC,-29.375,29.625,C3,1.929,2,4.8,-26.4,1.3,43.9,33.1,-7.502
+1977,169,"Du Toit, P.C.V.",2503,Poaceae,Koeleria capensis,KC,2929BC,-29.375,29.625,C3,1.81,2,0.2,-26.5,2.2,44.2,20,-7.4844
+2004,170,"de Wet, S.F.",861,Poaceae,Koeleria capensis,KC,2929BC,-29.27416667,29.67194444,C3,1.766,2,-1.7,-30.7,1.9,42.8,22.4,-8.176351483
+1983,171,"Hilliard, O.M.",16245,Poaceae,Koeleria capensis,KC,2929BC,-29.375,29.625,C3,1.559,2,10.3,-23.7,1.2,44.6,35.9,-7.65725
+1918,172,"Mogg, A.O.D.",3271,Poaceae,Koeleria capensis,KC,2929BC,-29.375,29.625,C3,1.701,2,1.4,-26.6,1.7,42.1,25.1,-6.938044526
+1975,173,"Du Toit, P.C.V.",696,Poaceae,Koeleria capensis,KC,2929CB,-29.625,29.375,C3,1.744,2,-3.9,-27.2,1.7,44.2,26.4,-7.417666667
+1982,174,"Manning, J.C.",15904,Poaceae,Koeleria capensis,KC,2929CB,-29.625,29.375,C3,1.803,2,-4.6,-26.5,1.1,43.9,40.8,-7.643
+1991,175,"Moss, H.",1770,Poaceae,Koeleria capensis,KC,2929CB,-29.625,29.375,C3,1.87,2,-7,-25.4,1.3,44.2,34.5,-7.850039383
+1962,176,"Acocks, J.P.H.",22153,Poaceae,Koeleria capensis,KC,2929CB,-29.625,29.375,C3,1.618,2,-0.8,-26.6,1.4,43.4,30.5,-7.091
+1975,177,"Du Toit, P.C.V.",704A,Poaceae,Koeleria capensis,KC,2929CB,-29.625,29.375,C3,1.711,2,-5.3,-28,1.4,44.8,32.3,-7.417666667
+1975,178,"Du Toit, P.C.V.",705,Poaceae,Koeleria capensis,KC,2929CB,-29.625,29.375,C3,1.644,2,-3.4,-27.8,1.4,44.7,32.9,-7.417666667
+1975,179,"Du Toit, P.C.V.",703,Poaceae,Koeleria capensis,KC,2929CB,-29.625,29.375,C3,1.773,2,-3.6,-28.1,1.7,44.2,26.1,-7.417666667
+1977,180,"Du Toit, P.C.V.",2299,Poaceae,Koeleria capensis,KC,2929CB,-29.625,29.375,C3,1.921,2,0.4,-26.3,2.5,43.1,17.3,-7.4844
+2002,181,"Burgoyne, P.M.",9086,Poaceae,Koeleria capensis,KC,2929CB,-29.61888889,29.3725,C3,1.778,2,-0.3,-29,1.8,40.7,22.6,-8.12401815
+1991,182,"Moss, H.",1743,Poaceae,Koeleria capensis,KC,2929AD,-29.375,29.375,C3,1.626,2,0.9,-20.7,1.6,42.5,26.2,-7.850039383
+1979,183,"Smook, L.",1383,Poaceae,Koeleria capensis,KC,2929AD,-29.375,29.375,C3,1.758,2,1.2,-25.6,2.2,44.2,20.1,-7.539666667
+1951,184,"Killick, D.J.B.",1301,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.85,2,0.4,-25.6,1.2,42.3,36.2,-6.993443595
+1914,185,"Symons, R.E.",176,Poaceae,Koeleria capensis,KC,2929AD,-29.375,29.375,C3,1.79,2,-0.8,-25.8,1.4,42.9,30,-6.867667056
+1914,186,"Symons, R.E.",158,Poaceae,Koeleria capensis,KC,2929AD,-29.375,29.375,C3,1.787,2,-4.1,-26.9,1.2,41.8,35.6,-6.867667056
+1955,187,"Jacot Guillarmod, A.F.M.G.",2360,Poaceae,Koeleria capensis,KC,2929AD,-29.375,29.375,C3,1.822,2,2.3,-26.8,1.3,41.7,31.3,-7.049520585
+1955,188,"Jacot Guillarmod, A.F.M.G.",2344,Poaceae,Koeleria capensis,KC,2929AD,-29.375,29.375,C3,1.608,2,-0.2,-25.6,2.7,62.1,22.7,-7.049520585
+1919,189,"Bryant, E.G.",A23,Poaceae,Hyparrhenia hirta,HH,2628AA,-26.125,28.125,C4,1.799,2,10.1,-10.4,2.1,45.6,22,-6.94453502
+1908,190,"Leendertz, R.",TRV 6168,Poaceae,Hyparrhenia hirta,HH,2628AA,-26.125,28.125,C4,1.771,2,1,-10.1,2.5,44.2,17.5,-6.838275076
+1933,191,"Meebold, A.",13885,Poaceae,Hyparrhenia hirta,HH,2628AA,-26.125,28.125,C4,1.665,2,8,-11.9,1.2,42.6,37,-6.912
+1937,192,"Cohen, E.",672,Poaceae,Hyparrhenia hirta,HH,2628AA,-26.125,28.125,C4,1.668,2,9.4,-9.3,1.8,42,23.4,-6.95
+1998,193,"Reddy, R.A.",1301,Poaceae,Hyparrhenia hirta,HH,2628AA,-26.125,28.125,C4,1.668,0,-5.5,-12.3,0.9,43.4,50.9,-8.051092408
+1997,194,"Reddy, R.A.",178,Poaceae,Hyparrhenia hirta,HH,2628AA,-26.125,28.125,C4,1.618,2,-4.6,-12.4,1.8,44.4,25,-8.00226815
+1934,195,"van O'Bruyn, O.",154,Poaceae,Hyparrhenia hirta,HH,2628AA,-26.125,28.125,C4,1.726,2,-2.4,-10.4,1.6,44.7,28.6,-6.961154178
+1986,196,"Jeffers, L.N.",505,Poaceae,Digitaria eriantha,DE,2627CA,-26.625,27.125,C4,1.725,2,1.8,-12.7,2.5,45.5,18,-7.734
+1979,197,"Brooks, W.",85,Poaceae,Digitaria eriantha,DE,2627CA,-26.625,27.125,C4,1.862,2,1.2,-10.9,1.3,42.9,32.8,-7.539666667
+1911,198,"Burtt Davy, J.",11459,Poaceae,Digitaria eriantha,DE,2627CA,-26.625,27.125,C4,1.886,2,5,-11.1,2.4,46.1,19,-6.888546675
+1988,199,"Saayman, E.J.L.",146,Poaceae,Digitaria eriantha,DE,2627CA,-26.625,27.125,C4,1.811,2,-1.2,-11.8,2.6,43.9,16.8,-7.804333333
+1974,200,"Kok, P.",618,Poaceae,Digitaria eriantha,DE,2627CA,-26.625,27.125,C4,1.783,2,1.6,-11.5,1.5,44.2,28.9,-7.483
+1931,201,"Pole-Evans, I.B.",3120,Poaceae,Digitaria eriantha,DE,2627CA,-26.625,27.125,C4,1.594,2,2,-10.9,1.9,42.2,22.6,-6.9815
+1959,202,"van Rensburg, W.L.J.",248,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.87,2,1.4,-27.2,2.2,42.6,19.6,-7.067
+1975,203,"Haynes, R.A.",1199,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.562,2,0.9,-27.3,2.3,47.3,20.6,-7.417666667
+1945,204,"Rycroft, H.B.",1034,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.719,2,-2,-31.7,1.2,43.3,36.8,-7.033
+1964,205,"Taylor, H.C.",6031,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.869,1,-0.4,-28.5,1,43.8,46,-7.066939165
+1974,206,"Ellis, R.P.",2210,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.783,0,1.9,-28.8,0.9,39.2,44.1,-7.483
+1961,207,"van der Merwe, P.",25-8,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.811,2,-0.4,-29.4,1.1,39.2,36.9,-7.10056577
+1960,208,"van der Merwe, P.",24-26,Poaceae,Pentaschistis pallida,PP,3318DD,-33.875,18.875,C3,1.833,2,-1.4,-27.9,2.6,45.8,17.5,-7.084214775
+1944,209,"Liebenberg, LCC",4046,Poaceae,Pentaschistis pallida,PP,3318DD,-33.875,18.875,C3,1.568,0,6.6,-29.5,0.4,40.6,92.3,-7.079100425
+1974,210,"Ellis, R.P.",2229,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.912,2,-2.9,-30.4,1.9,45.3,23.5,-7.483
+1941,211,"Adamson, R.S.",3277,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.707,2,1.3,-29.4,1.7,44.3,26,-6.999
+1949,212,"Esterhuysen, EE",15995,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.901,2,3.6,-29.2,2.5,44.7,18,-7.03233859
+1948,213,"Adamson, R.S.",4074,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.777,2,-0.4,-28.8,1.4,43.5,30.9,-7.043
+1974,214,"Ellis, R.P.",2263,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.82,2,-0.7,-28.3,2,44.8,22.3,-7.483
+1974,215,"Ellis, R.P.",2223,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.755,2,-2.1,-28.7,1.6,44.8,27.4,-7.483
+1974,216,"Ellis, R.P.",2262,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.809,2,-0.6,-28.1,1.2,44.3,36.7,-7.483
+1969,217,"van der Merwe, C.V.",1320,Poaceae,Pentameris pallida,PP,3318DD,-33.96666667,18.91666667,C3,1.628,0,3.5,-29.6,0.5,43.6,79.5,-7.305
+1962,218,"van der Merwe, P.",954,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.725,2,-0.8,-25.2,1.6,44.6,28.4,-7.091
+1963,219,"Taylor, H.C.",5586,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.683,0,-3.1,-30.4,0.6,44.2,70.1,-7.055
+1902,220,"Marloth, H.W.R.",3036B,Poaceae,Pentameris pallida,PP,3318DD,-33.875,18.875,C3,1.802,0,5.2,-28.2,0.7,41.5,60.8,-6.769743787
+1920,221,"Mogg, A.O.D.",6943,Poaceae,Hyparrhenia hirta,HH,2930AC,-29.375,30.125,C4,1.695,2,3.9,-11.5,1.4,44.4,32.6,-6.931
+1919,222,"Mogg, A.O.D.",5598,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.723,2,1.2,-26.8,2,44,21.9,-6.94453502
+1917,223,"Mogg, AOD",871,Poaceae,Koeleria capensis ,KC,2930AC,-29.375,30.125,C3,1.812,2,-1.9,-28.7,1.2,44.8,36.8,-6.919656769
+1917,224,"Mogg, A.O.D.",1256,Poaceae,Hyparrhenia hirta,HH,2930AC,-29.375,30.125,C4,1.742,2,3.6,-11,1.2,42.8,36.1,-6.919656769
+1928,225,"Galpin, E.E.",10252,Poaceae,Koeleria Capensis,KC,2930AC,-29.375,30.125,C3,1.728,2,0.8,-26.5,1.8,41.6,23,-6.8392439
+1964,226,"Moll, E.J.",1208,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.831,2,0.3,-25.7,1.9,44.7,24.1,-7.066939165
+1918,227,"Mogg, A.O.D.",2445,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.757,2,-1.4,-27,2,43.8,21.4,-6.938044526
+1947,228,"Acocks, J.P.H.",13873,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.75,2,-4.5,-26.9,1.6,43.7,27.9,-7.013
+1918,229,"Mogg, A.O.D.",2411,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.982,2,4.5,-27.3,3.1,42.6,13.9,-6.938044526
+1964,230,"Moll, E.J.",1094,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.838,2,-0.3,-28,2.3,41.2,17.8,-7.066939165
+1993,231,"Ward, C.J.",12326,Poaceae,Hyparrhenia hirta,HH,2930AC,-29.375,30.125,C4,1.699,0,2.7,-13.4,0.3,44.8,152.9,-7.885608704
+1918,232,"Mogg, A.O.D.",1427,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.611,2,4.3,-25.7,3.2,43.6,13.4,-6.938044526
+1919,233,"Mogg, A.O.D.",6525,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.933,2,4.4,-19.4,2.2,44.1,19.9,-6.94453502
+1918,234,"Mogg, A.O.D.",2391,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.735,2,1.9,-27,2.4,43.1,17.9,-6.938044526
+1987,235,"Spies, J.J.",3285,Poaceae,Hyparrhenia hirta,HH,2930AC,-29.375,30.125,C4,1.739,1,NA,-10.6,1.7,47.4,27.8,-7.7495
+1917,236,"Mogg, A.O.D.",703,Poaceae,Hyparrhenia hirta,HH,2930AC,-29.375,30.125,C4,1.787,0,NA,-10.2,1.3,45.7,36,-6.919656769
+1919,237,"Mogg, A.O.D.",5677,Poaceae,Koeleria capensis,KC,2930AC,-29.375,30.125,C3,1.844,2,2.4,-27.5,2.6,45.6,17.7,-6.94453502
+1969,238,"Stehle, T.C.",TS.230,Poaceae,Pentameris densifolia,PP,3319AC,-33.375,19.125,C3,1.729,2,0.8,-31.3,2.6,46.2,17.8,-7.305
+1969,239,"Haynes, R.A.",224,Poaceae,Pentameris pallida,PP,3319AC,-33.4,19.08333333,C3,1.66,0,NA,-28.2,1,46.7,45.9,-7.305
+1896,240,"Schlechter, F.R.R.",9037,Poaceae,Pentameris pallida,PP,3319AC,-33.375,19.125,C3,1.84,0,NA,-29.1,0.5,45.7,83.8,-6.857648154
+1987,241,"Davidse, G.",33951,Poaceae,Pentameris pallida,PP,3319AC,-33.375,19.125,C3,1.815,0,NA,-30.8,1.5,43.6,28.7,-7.7495
+1987,242,"Davidse, G.",33954,Poaceae,Pentameris pallida,PP,3319AC,-33.375,19.125,C3,1.589,0,NA,-30.3,1.8,44.8,25.3,-7.7495
+1964,243,"Taylor, H.C.",6141,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.746,0,NA,-27,0.5,46.1,87.2,-7.066939165
+1988,244,"Spies, J.J.",3840,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.786,0,NA,-27.4,1.4,44.9,32.1,-7.804333333
+1987,245,"Ellis, R.P.",5508,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.883,0,NA,-27.4,1,47.4,48.4,-7.7495
+1950,246,"Esterhuysen, E.E.",18158,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.647,0,NA,-29.2,0.6,46.1,74.9,-7.006
+1987,247,"Ellis, R.P.",5507,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.684,0,NA,-27.6,0.7,42.8,58.3,-7.7495
+1997,248,"Spies, J.J.",6329,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.883,0,NA,-28.6,1.5,45.1,29.4,-8.00226815
+1989,249,"le Maitre, D.C.",603,Poaceae,Pentameris pallida,PP,3219AC,-32.35,19.03333333,C3,1.951,2,4,-29,1.9,44.3,23.3,-7.824
+1988,250,"Spies, J.J.",3828,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.891,2,4.8,-29.6,2.4,46.6,19.3,-7.804333333
+1987,251,"Ellis, R.P.",5588,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.723,1,NA,-27.4,1.7,45.7,27.2,-7.7495
+1988,252,"Spies, J.J.",3845,Poaceae,Pentameris pallida,PP,3219AC,-32.375,19.125,C3,1.86,2,11.1,-27,2.5,44.5,17.6,-7.804333333
+2004,253,"de Wet, S.F.",863,Poaceae,Koeleria capensis,KC,2430DD,-24.87055556,30.8425,C3,1.956,2,2.6,-27.1,2.2,47.1,21.6,-8.176351483
+1979,254,"Kluge, J.P.",1964,Poaceae,Koeleria capensis,KC,2430DD,-24.875,30.875,C3,1.786,2,3.3,-27.1,2,45.4,22.6,-7.539666667
+1983,255,"Ellis, R.P.",4314,Poaceae,Koeleria capensis,KC,2430DD,-24.875,30.875,C3,1.865,2,0.6,-24.9,1.9,47,25.2,-7.65725
+1988,256,"Saayman, E.J.L.",91,Poaceae,Koeleria capensis,KC,2430DD,-24.875,30.875,C3,1.775,0,NA,-27.4,1,44.9,45.1,-7.804333333
+1951,257,"Codd, L.E.W.",6718,Poaceae,Koeleria capensis,KC,2430DD,-24.875,30.875,C3,1.862,0,NA,-27.4,1.3,45.7,36.5,-6.993443595
+1988,258,"Burgoyne, P.M.",49,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.842,0,NA,-27.7,0.7,36.6,49.5,-7.804333333
+1988,259,"Saayman, E.J.L.",112,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.908,1,NA,-25.9,1.6,46.3,29,-7.804333333
+1988,260,"Saayman, E.J.L.",115,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.733,2,-2.3,-27.4,1.9,45.2,23.8,-7.804333333
+2001,261,"Hankey, A.J.",1300,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.68,0,NA,-25.5,1,47.4,47.5,-8.074354535
+1947,262,"Codd, L.E.W.",3230,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.777,2,3.3,-27,1.9,45.8,23.5,-7.013
+1984,263,"Spies, J.J.",1565A,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.817,2,3.1,-27.5,3,45.3,15.1,-7.6955
+1980,264,"Drews, B.K.",127,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.641,1,NA,-26.5,1.8,46.7,26,-7.5705
+1980,265,"Drews, B.K.",173,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.702,1,NA,-26,1.7,48.4,28.1,-7.5705
+1932,266,"Galpin, E.E.",s13160,Poaceae,Koeleria capensis,KC,2530AC,-25.375,30.125,C3,1.705,2,0.3,-26.7,2,46.6,23,-6.906
+1988,267,"Saayman, E.J.L.",90,Poaceae,Koeleria capensis,KC,2430DD,-24.875,30.875,C3,1.806,0,NA,-27.9,1.2,45.4,37.1,-7.804333333
+1983,268,"du Toit, G.J.",1002,Poaceae,Digitaria eriantha,DE,2430AA,-24.125,30.125,C4,1.686,0,NA,-12.7,1.6,45.5,27.9,-7.65725
+1983,269,"du Toit, G.J.",1000,Poaceae,Digitaria eriantha,DE,2430AA,-24.125,30.125,C4,1.68,2,5.2,-11.9,2.3,44.1,19,-7.65725
+1919,270,"Junod, H.A.",4086,Poaceae,Digitaria eriantha,DE,2430AA,-24.125,30.125,C4,1.552,0,NA,-9.4,1.2,46.1,38.8,-6.94453502
+1979,271,"du Toit, G.J.",224,Poaceae,Digitaria eriantha,DE,2430AA,-24.125,30.125,C4,1.569,1,NA,-12.1,2,45.5,23.2,-7.539666667
+1978,272,"du Toit, G.J.",140,Poaceae,Digitaria eriantha,DE,2430AA,-24.125,30.125,C4,1.85,2,2.9,-11.7,2.4,46.6,19.6,-7.502
+1984,273,"du Toit, G.J.",1003,Poaceae,Digitaria eriantha,DE,2430AA,-24.125,30.125,C4,1.741,2,1.7,-12.6,1.8,47.1,25.7,-7.6955
+1978,274,"du Toit, G.J.",118,Poaceae,Digitaria eriantha,DE,2430AA,-24.125,30.125,C4,1.841,2,7.7,-11.4,2.7,48.8,18.2,-7.502
+1904,275,"Burtt Davy, J.",PRE 1283,Poaceae,Digitaria eriantha,DE,2529CD,-25.875,29.375,C4,1.744,2,0.7,-9.7,1.9,45.7,24.1,-6.800354561
+1974,276,"Wilson, D.",PFS12A,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.66,0,NA,-10.6,1.7,48.1,28.8,-7.483
+1909,277,"Huntley, B.J.",1018,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.687,0,NA,-10.4,1.2,44,37.1,-6.867665308
+1974,278,"Wilson, D.",PFS 12,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.669,0,NA,-11.5,1.4,48.1,33.6,-7.483
+1968,279,"Huntley, B.J.",972,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.688,1,NA,-10.2,1.7,46.9,28.2,-7.336012423
+1974,280,"Leendertz, R.",1887,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.779,1,NA,-9.6,1.7,45.4,26.4,-7.483
+1921,281,"Knothe, C.",PRE 7960,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.863,2,1.7,-11,2.1,46.3,22.3,-6.89513872
+1967,282,"Ellis, R.P.",2050,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.868,2,2.1,-10.3,1.8,48,26.9,-7.333
+1967,283,"Huntley, B.J.",1556,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.8,2,0.2,-11.9,2,47.3,23.8,-7.333
+1929,284,"Galpin, E.E.",8874,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.639,2,3.5,-10.5,2.4,44.3,18.3,-6.841285714
+1968,285,"Huntley, B.J.",1193,Poaceae,Digitaria eriantha,DE,2429AA,-24.125,29.125,C4,1.665,1,NA,-12,1.8,45,24.8,-7.336012423
+1947,286,"Wilman, M.",PRE 34692,Poaceae,Pentameris pallida,PP,3322DC,-33.875,22.625,C3,1.744,2,-1.6,-29.4,1.9,48.3,25.5,-7.013
+1988,287,"Ellis, R.P.",5821,Poaceae,Pentameris pallida,PP,3322DC,-33.875,22.625,C3,1.757,0,NA,-30,1.1,45.9,41.5,-7.804333333
+1988,288,"Ellis, R.P.",5820,Poaceae,Pentameris pallida,PP,3322DC,-33.875,22.625,C3,1.667,0,NA,-30.6,1.4,46.1,34.1,-7.804333333
+1973,289,"Kok, P.D.F.",493,Poaceae,Digitaria eriantha,DE,2626DD,-26.875,26.875,C4,1.746,0,NA,-11.3,1.3,46,36.2,-7.39275
+1931,290,"Pole-Evans, I.B.",3121,Poaceae,Digitaria eriantha,DE,2626DD,-26.875,26.875,C4,1.858,2,2.6,-10.5,1.7,45.3,26,-6.9815
+1974,291,"Kok, P.D.F.",617,Poaceae,Digitaria eriantha,DE,2626DD,-26.875,26.875,C4,1.969,2,6.2,-10.9,2.9,46.1,16.1,-7.483
+1931,292,"Pole-Evans, I.B.",3123,Poaceae,Digitaria eriantha,DE,2626DD,-26.875,26.875,C4,1.943,0,NA,-10.5,1.4,45.2,32.7,-6.9815
+1931,293,"Goossens, A.P.G.",869,Poaceae,Digitaria eriantha,DE,2827DD,-28.875,27.875,C4,1.846,2,5,-10.5,2,43.5,21.8,-6.9815
+1970,294,"Jarman, N.G.",46,Poaceae,Digitaria eriantha,DE,2827DD,-28.875,27.875,C4,1.628,0,NA,-11.1,1,45.5,45.2,-7.318156423
+1970,295,"Jarman, N.G.",122,Poaceae,Digitaria eriantha,DE,2827DD,-28.875,27.875,C4,1.718,1,NA,-11,1.8,45.5,25.1,-7.318156423
+1972,296,"Loxton, A.E.",948,Poaceae,Digitaria eriantha,DE,2827DD,-28.875,27.875,C4,1.601,2,9.6,-10.2,2.9,45.5,15.6,-7.356
+1931,297,"Goossens, A.P.G.",808,Poaceae,Digitaria eriantha,DE,2827DD,-28.875,27.875,C4,1.702,2,2.2,-10.7,2.9,46.2,16.1,-6.9815
+1926,298,"Bayer, A.J.W.",274,Poaceae,Koeleria capensis,KC,2828DD,-28.875,28.875,C3,1.683,0,NA,-25.5,1,43.6,45.5,-6.966800343
+1987,299,"Panagos, M.D.",53,Poaceae,Koeleria capensis,KC,2828DD,-28.875,28.875,C3,1.819,2,0.8,-27.1,2.1,44.6,21.3,-7.7495
+1946,300,"Schelpe, EACLE",1399,Poaceae,Koeleria capensis,KC,2828DD,-28.875,28.875,C3,1.86,0,NA,-24.9,1.3,46.7,36.5,-6.983
+1978,301,"Smook, L.",1044,Poaceae,Koeleria capensis,KC,2828DD,-28.875,28.875,C3,1.813,0,NA,-26.3,1.3,46,34.4,-7.502
+1955,302,"Edwards, D.",640,Poaceae,Koeleria capensis,KC,2828DD,-28.875,28.875,C3,1.804,0,NA,-26.6,0.6,45.2,81.9,-7.049520585
+1962,303,"Lubke, R.A.",254,Poaceae,Koeleria capensis,KC,2828DD,-28.875,28.875,C3,1.706,0,NA,-25.1,1.4,46.3,33.8,-7.091
+1972,304,"Ellis, R.P.",1025,Poaceae,Digitaria eriantha,DE,2428DA,-24.625,28.625,C4,1.672,0,NA,-11.5,1.6,45.7,29.1,-7.356
+1975,305,"Du Toit, P.C.V.",526,Poaceae,Digitaria eriantha,DE,2428DA,-24.625,28.625,C4,1.771,2,5.2,-10.5,1.9,46.3,23.9,-7.417666667
+1929,306,"Donisthorpe, A.",1,Poaceae,Digitaria eriantha,DE,2428DA,-24.625,28.625,C4,1.827,2,4.6,-10.2,2.4,47.2,19.6,-6.841285714
+1975,307,"Du Toit, P.C.V.",483,Poaceae,Digitaria eriantha,DE,2428DA,-24.625,28.625,C4,1.93,0,NA,-11.2,0.5,48.1,91.2,-7.417666667
+1975,308,"Du Toit, P.C.V.",595,Poaceae,Digitaria eriantha,DE,2428DA,-24.625,28.625,C4,1.728,0,NA,-10.7,0.6,46.3,77.1,-7.417666667
+1919,309,"Galpin, E.E.",393,Poaceae,Digitaria eriantha,DE,2428DA,-24.625,28.625,C4,1.988,1,NA,-9.9,1.5,42.7,29.4,-6.94453502
+1950,310,"Killick, D.J.B.",946,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.857,0,NA,-25.5,1.3,45.9,34.3,-7.006
+1979,311,"Smook, L.",1377,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.769,0,NA,-26.3,1.4,47.5,33.5,-7.539666667
+1979,312,"Smook, L.",1376,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.792,1,NA,-26.1,1.7,45.7,26.9,-7.539666667
+1973,313,"Ellis, R.P.",1431,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.859,2,3.5,-24.6,1.8,46.8,25.3,-7.39275
+1979,314,"Smook, L.",1371,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.893,2,-1.6,-25.7,1.8,44.6,25.4,-7.539666667
+1978,315,"Smook, L.",1084,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.801,2,-0.5,-26.5,2.1,44.7,21.3,-7.502
+1973,316,"Ellis, R.P.",1412,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.789,0,NA,-26.7,1.2,44.5,38.5,-7.39275
+1979,317,"Smook, L.",1379,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.615,1,NA,-26.6,1.8,45,25.5,-7.539666667
+1938,318,"Acocks, J.P.H.",63,Poaceae,Koeleria capensis,KC,2829CC,-28.875,29.125,C3,1.79,0,-0.6,-26.1,1.4,43,30.9,-6.9435
+1976,319,"Du Toit, P.C.V.",1764,Poaceae,Pentameris pallida,PP,3319CB,-33.625,19.375,C3,1.611,0,NA,-27.5,0.5,47.7,90.6,-7.4425
+1949,320,van Breda,341,Poaceae,Pentameris pallida,PP,3319CB,-33.625,19.375,C3,1.785,1,NA,-27.8,1.6,47.9,29.3,-7.03233859
+1972,321,"Ellis, R.P.",1258,Poaceae,Pentameris pallida,PP,3319CB,-33.625,19.375,C3,1.795,2,4.2,-28,1.9,47,25.1,-7.356
+1971,322,Stephen; Oakes,217; 1503,Poaceae,Digitaria eriantha,DE,2231CA,22.4156,-22.4156,C4,1.74,0,NA,-11.1,0.9,46.1,49,-7.3475
+2005,323,"Morrison, E; Klasen, M",4,Poaceae,Digitaria eriantha,DE,2231CA,22.4227,-22.4227,C4,1.718,2,6.8,-13.6,2.1,47.3,22.5,-8.206351483
+1971,324,Stephen; Oakes,204; 1464,Poaceae,Digitaria eriantha,DE,2231CA,22.4413,-22.4413,C4,1.723,0,NA,-11.3,0.9,45.7,49,-7.3475
+2005,325,"Hauser, JR; Vaughan, AK",s.n.,Poaceae,Digitaria eriantha,DE,2231CA,22.4129,-22.4129,C4,1.694,0,NA,-13,1.5,45.8,30.6,-8.206351483
+2007,326,"Bouchenak-Khelladi, Y",YBK 235,Poaceae,Digitaria eriantha,DE,2331DC,23.5233,-23.5233,C4,1.828,2,1.3,-13.1,1.8,41.8,23.5,-8.26651815
+1971,327,Stephen; Oakes,188; 1436,Poaceae,Digitaria eriantha,DE,2331DC,23.473,-23.473,C4,1.785,2,1.4,-11.2,1.9,45.6,24.4,-7.3475
+1971,328,Stephen; Oakes,172;1415,Poaceae,Digitaria eriantha,DE,2431DC,24.544,-24.544,C4,1.925,2,4.3,-10.4,2.2,46.2,21,-7.3475
+1977,329,"Nel, PJ",s.n.,Poaceae,Digitaria eriantha,DE,2431DC,24.5722,-24.5722,C4,1.766,2,5.6,-11.6,2.1,44.3,21,-7.4844
+2005,330,"Policzer, JT",10,Poaceae,Digitaria eriantha,DE,2431DC,24.594,-24.594,C4,1.727,0,NA,-13.5,0.5,40.1,78.9,-8.206351483
+2003,331,"Pettit, N",61,Poaceae,Digitaria eriantha,DE,2431DC,24.5753,-24.5753,C4,1.63,1,NA,-14.2,1.8,45.9,25.7,-8.15301815
+1971,332,Stephen; Oakes,154;1394,Poaceae,Digitaria eriantha,DE,2531BB,25.0709,-25.0709,C4,1.826,2,4.8,-11,2.6,45.5,17.3,-7.3475
+2007,333,"Bouchenak-Khelladi, Y",YBK 133,Poaceae,Digitaria eriantha,DE,2531BB,25.1134,-25.1134,C4,1.724,2,2.7,-13.5,2.4,47.4,19.4,-8.26651815
+2007,334,"Bouchenak-Khelladi, Y",YBK 163,Poaceae,Digitaria eriantha,DE,2531BB,25.1241,-25.1241,C4,1.861,2,0.6,-12.5,2.8,43.4,15.3,-8.26651815
+1952,335,"van der Schijff, HP",224,Poaceae,Digitaria eriantha,DE,2531AB,25.1,-25.1,C4,1.901,2,3.2,-10.2,2.4,40.4,17,-6.996541783
+1953,336,"van der Schijff, HP",1652,Poaceae,Digitaria eriantha,DE,2531AB,25.1244,-25.1244,C4,1.793,0,NA,-10.1,1.5,46.3,31.6,-7.010270232
+1953,337,"van der Schijff, HP",1511,Poaceae,Digitaria eriantha,DE,2531AB,25.1,-25.1,C4,1.821,0,NA,-10,1.5,44.2,30.4,-7.010270232
+1966,338,"van Wyk, P",4655,Poaceae,Digitaria eriantha,DE,2531AB,25.0923,-25.0923,C4,1.833,2,2.9,-11.1,1.9,45.8,24.1,-7.235
+1954,339,"van der Schijff, HP",3395,Poaceae,Digitaria eriantha,DE,2531AB,25.1244,-25.1244,C4,1.791,2,0.2,-11.2,1.9,45.9,23.9,-7.02960461
+1952,340,"van der Schijff, HP",217,Poaceae,Digitaria eriantha,DE,2531AB,25.1,-25.1,C4,1.892,2,3.9,-9.9,1.9,45,24,-6.996541783
+1952,341,"van der Schijff, HP",216,Poaceae,Digitaria eriantha,DE,2531AB,25.1,-25.1,C4,1.754,2,2.5,-10.1,2.1,43.3,20.4,-6.996541783
+1953,342,"van der Schijff, HP",1642,Poaceae,Digitaria eriantha,DE,2531AB,25.1244,-25.1244,C4,1.645,0,2.7,-10.1,1.4,42.9,30.2,-7.010270232
+1966,343,"van Wyk, P",4656,Poaceae,Digitaria eriantha,DE,2531AB,25.0923,-25.0923,C4,1.78,0,NA,-10.9,1.4,46.6,33.1,-7.235
+1966,344,"van Wyk, P",4686,Poaceae,Digitaria eriantha,DE,2531AB,25.0923,-25.0923,C4,1.767,2,1.4,-9.7,2.1,45.9,22.3,-7.235
+1953,345,"van der Schijff, HP",1668,Poaceae,Digitaria eriantha,DE,2531AB,25.1244,-25.1244,C4,1.672,0,NA,-9,1.4,44.4,32.2,-7.010270232
+1953,346,"van der Schijff, HP",2096,Poaceae,Digitaria eriantha,DE,2531AB,25.0628,-25.0628,C4,1.835,2,3.6,-9.3,1.9,46.2,24.5,-7.010270232
+1953,347,"van der Schijff, HP",1640,Poaceae,Digitaria eriantha,DE,2531AB,25.1,-25.1,C4,1.86,2,3.1,-9.8,2.1,46.5,21.8,-7.010270232
+1952,348,"van der Schijff, HP",376,Poaceae,Digitaria eriantha,DE,2531AB,25.1244,-25.1244,C4,1.804,0,NA,-10.7,1.5,46.4,31.3,-6.996541783

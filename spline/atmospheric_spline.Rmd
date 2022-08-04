@@ -1,0 +1,81 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# THIS CODE IS CLEANED UP AND MODIFIED IN CSIRO-Rubino-d13C-spline.R
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(lme4)
+setwd(dir = "/Users/IsadT/Desktop")
+```
+
+Importing the merged Rubino-CSIRO data set, establishing the length of time to build the spline for. 
+```{r}
+setwd(dir = "/Users/IsadT/Desktop")
+data <- read.csv('spline_comp.csv')
+data_spline <- data %>% filter(year > 1700)
+x <- data_spline$year
+y <- data_spline$d13
+#Length of sequence establishes the time interval the spline accounts for. 
+xs <- seq(1700,2010, by=1)
+data_spline
+```
+
+Spline function
+```{r}
+pp <- spline(x,y)
+ppfun <- splinefun(x,y)
+vals <- ppfun(xs)
+```
+
+Plotting the spline against the values of the merged Rubino-CSIRO data
+```{r}
+values <- data.frame("year"=xs, "d13_atmos"=vals)
+values
+write.csv(values,"CSIRO-Rubino-d13-spline.csv")
+
+plot(d13_atmos ~ year, data=values)
+points(d13_atmos ~ year, data = data_spline, col="red")
+```
+
+```{r}
+colors <- c("antiquewhite4", "gray16")
+f <- ggplot(values, mapping = aes(x=year, y=d13_atmos)) +
+     geom_point(alpha = 0.8, color="antiquewhite4") + 
+     geom_point(data=data_spline, color='red', alpha=0.6) +
+     labs(x= "year", y="δ13Ca", color="pathway") +
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),panel.background = element_blank(), axis.line =  
+           element_line(colour = "black"), plot.title = element_text(hjust = 0.5), legend.background = element_rect(colour = NA), legend.key = element_rect(colour = "white", fill = NA), legend.title = element_blank())
+f
+ggsave('spline.png', plot=f)
+```
+
+
+```{r}
+colors <- c("antiquewhite4", "gray16")
+f <- ggplot(filter(data, !iso_code==c(out$iso_code)), mapping = aes(x=year, y=d.13CVPDB, col=as.factor(pathway))) +
+     geom_point(alpha = 0.8) + 
+     scale_color_manual(values = colors) +
+     geom_smooth(data = filter(data, pathway =="C4" & year >= 1950), method="lm", col="gray16", weight=0.3, size=0.5, se=F) +
+     geom_smooth(data = filter(data, pathway =="C3" & year >= 1950), method="lm", col="antiquewhite4", weight=0.3, size=0.5, se=F) +
+     labs(x= "year", y="d13C", color="pathway") +
+     theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),panel.background = element_blank(), axis.line =  
+           element_line(colour = "black"), plot.title = element_text(hjust = 0.5), legend.background = element_rect(colour = NA), legend.key = element_rect(colour = "white", fill = NA), legend.title = element_blank())
+f
+ggsave('d13_grouped.png', plot=f)
+```
+
+Merging with herbarium grass isotope data
+```{r}
+isotopes <- read.csv('isotope_data.csv')
+iso_year <- isotopes$year
+atmosphere <- values
+atmos <- filter(atmosphere, year %in% iso_year)
+data <- merge(isotopes, atmos, by='year')
+data
+write.csv(data, 'data_atmos_comp_fin.csv')
+```
+
